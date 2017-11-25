@@ -8,10 +8,9 @@ The functionality is pretty straight forward:
 - select a star on the image to read more about it
 
 Images:
-![Alt text](astroJavaApp/img1.jpg?raw=true "Image 1")
-![Alt text](astroJavaApp/img2.jpg?raw=true "Image 2")
-![Alt text](astroJavaApp/img3.jpg?raw=true "Image 3")
-
+![alt text](https://raw.githubusercontent.com/Andrei0795/astroJavaApp/master/img1.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/astroJavaApp/master/img2.png)
+![alt text](https://raw.githubusercontent.com/Andrei0795/astroJavaApp/master/img3.png)
 
 Info about what I used:
 - Java
