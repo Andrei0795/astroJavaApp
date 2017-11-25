@@ -7,6 +7,12 @@ The functionality is pretty straight forward:
 - read description of the constellation
 - select a star on the image to read more about it
 
+Images:
+![Alt text](astroJavaApp/img1.jpg?raw=true "Image 1")
+![Alt text](astroJavaApp/img2.jpg?raw=true "Image 2")
+![Alt text](astroJavaApp/img3.jpg?raw=true "Image 3")
+
+
 Info about what I used:
 - Java
 - SQL Lite DB
