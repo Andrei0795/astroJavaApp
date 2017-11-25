@@ -17,6 +17,9 @@ Info about what I used:
 - SQL Lite DB
 - NetBeans editor
 
+Run:
+The runnable version of the app can be found in the dist folder above. Its name is AstroApp.jar
+
 Issues and Unfinished things:
 
 - Each constellation has two or three stars maximum. I didn't have time to write information about all the stars
