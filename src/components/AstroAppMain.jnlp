@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+/*
+ * Copyright (c) 2010 Oracle and/or its affiliates. All rights reserved.
+
+
+ * THIS APPLICATION WAS DEVELOPED USING THE CODEBASE STATED BELOW - ORACLE - BY 
+ * ANDREI TUDOR IONESCU - HTTP://ANDREITUDORIONESCU.COM
+ * PLEASE NOTE THE COPYRIGHT - SplitPaneDemo2Project WAS USED IN THIS APP AND  
+ * CAN BE USED ACCESSING THE LINK BELOW - CODEBASE. THE REST IS MY OWN WORK
+ * INCLUDING THE DATABASE
+ * IMAGES COPYRIGHT GO TO Till Credner - https://commons.wikimedia.org/wiki/User:Till_Credner
+ * DESCRIPTIONS AND TEXT WERE TAKEN FROM WIKIPEDIA.COM
+ 
+ */ 
+-->
+
+<!-- JNLP File for AstroAppMain -->
+<jnlp
+  spec="1.0+"
+  codebase="https://docs.oracle.com/javase/tutorialJWS/samples/uiswing/SplitPaneDemo2Project"
+  href="AstroAppMain.jnlp">
+  <information>
+    <title>AstroApp</title>
+    <vendor>The Java(tm) Tutorial</vendor>
+    <homepage href="https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html#SplitPaneDemo2"/>
+    <description>AstroApp</description>
+    <description kind="short">.</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+"/>
+    <jar href="AstroApp.jar"/>
+  </resources>
+  <application-desc main-class="components.AstroAppMain"/>
+</jnlp> 
